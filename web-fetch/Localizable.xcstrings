@@ -1,0 +1,41 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "desserts" : {
+      "comment" : "Title for a list of dessert dishes.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desserts"
+          }
+        }
+      }
+    },
+    "ingredients" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingredients"
+          }
+        }
+      }
+    },
+    "mealSelect" : {
+      "comment" : "Empty state message for an area that shows recipe information. This text prompts the user to select a meal from the adjacent list.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a Meal"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
